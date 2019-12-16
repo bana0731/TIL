@@ -1,4 +1,4 @@
-# Today I Learnd
+# Today I Learned
 
 ## Git
 
